@@ -5,12 +5,7 @@ export const Wrapper = styled.nav`
        
 `;
 export const HomeNav = styled(NavLink)`
-   &.active{
-color: red;
-};
-&:hover {
-    color: red;
-}; 
+
 `;
 export const Navigation = styled(NavLink)`
 font-weight: 500;

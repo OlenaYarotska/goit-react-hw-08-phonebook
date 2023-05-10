@@ -1,17 +1,12 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.div`
-/* display: flex;
-flex-direction: column; */
-margin: 10px 0 0 20px ;
-
+margin: 0;
 `;
 
-export const Text = styled.p`
-margin-top: 5px;`;
+export const Text = styled.p``;
 
 export const Button = styled.button`
-margin-bottom: 5px;
   border-radius: 15px 225px 255px 15px 15px 255px 225px 15px;
   border-style: solid;
   border-width: 2px;
